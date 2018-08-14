@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Find Github User</string>
+    <string name="user_name">User name</string>
+    <string name="empty_result_user_search">No Users Found. Try again</string>
+    <string name="user_dont_have_repositories">User dont have any repository</string>
+
+</resources>
